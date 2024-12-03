@@ -1,4 +1,4 @@
-# Our Wedding Website
+# Baby Shower Website
 
 Welcome to the official website for our wedding! We're so excited to celebrate this special day with all of our favorite people. 
 
